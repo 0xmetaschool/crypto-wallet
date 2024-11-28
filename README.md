@@ -41,7 +41,7 @@ This Crypto Wallet application includes the following features:
 ### How to Run the Crypto Wallet
 1. Clone the repository:
     ```bash
-    https://github.com/0xmetaschool/crypto-wallet.git
+    git clone https://github.com/0xmetaschool/crypto-wallet.git
     ```
 2. Install Dependencies: Navigate to the project directory and install the necessary dependencies:
     ```bash
