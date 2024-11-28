@@ -45,7 +45,7 @@ This Crypto Wallet application includes the following features:
     ```
 2. Install Dependencies: Navigate to the project directory and install the necessary dependencies:
     ```bash
-    cd crypto-walle/chromeapi
+    cd crypto-wallet/chromeapi
     npm install --y
     ```
 3. Configure MongoDB:
