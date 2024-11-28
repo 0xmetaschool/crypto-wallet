@@ -68,25 +68,24 @@ This Crypto Wallet application includes the following features:
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/6c5b612f-9c6e-4890-9b73-2ab7dccf42c0" alt="Screenshot 1" width="150"></td>
-    <td><img src="https://github.com/user-attachments/assets/f9c8137f-e8e6-4cb2-ae3b-27b5c6c9590a" alt="Screenshot 2" width="150"></td>
-    <td><img src="https://github.com/user-attachments/assets/5baaaa1f-61ee-4789-8b98-619de61c182c" alt="Screenshot 3" width="150"></td>
-    <td><img src="https://github.com/user-attachments/assets/d9b8aba9-eae2-4262-bd5d-3bace9fb4154" alt="Screenshot 9" width="150"></td>
-    <td><img src="https://github.com/user-attachments/assets/0fc21ee0-b666-4000-b762-8f0cbf25f82d" alt="Screenshot 7" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/3c987d50-79e2-4109-96a5-2be62ea06b50" alt="Screenshot 9" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/5b10bd98-3cf7-4b2e-a5d9-36c87e4feb20" alt="Screenshot 1" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/e07ba4cd-a30b-4c0b-abf9-64e67e9b3c15" alt="Screenshot 2" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/992418a1-5430-4466-8783-f240bede0140" alt="Screenshot 3" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/4f63bb44-5c9a-4080-abe0-62016b6e78af" alt="Screenshot 9" width="150"></td>
+    
   </tr>
 
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/2639a236-a172-4b3f-9d01-fa26b3dd3222" alt="Screenshot 4" width="150"></td>
-    <td><img src="https://github.com/user-attachments/assets/1f4bd4e9-083e-4a1e-aa7b-a31c3579ed32" alt="Screenshot 5" width="150"></td>
-    <td><img src="https://github.com/user-attachments/assets/1f4bd4e9-083e-4a1e-aa7b-a31c3579ed32" alt="Screenshot 6" width="150"></td>
-    <td><img src="https://github.com/user-attachments/assets/342d6a11-e26e-4105-9413-b2b3843cef5d" alt="Screenshot 8" width="150"></td>
-      <td><img src="https://github.com/user-attachments/assets/8e315bde-3394-46c2-98c9-d68b2433df6d" alt="Screenshot 9" width="150"></td>
-
+    <td><img src="https://github.com/user-attachments/assets/b2f3e415-14e7-45af-8be7-dafd7e1334a2" alt="Screenshot 7" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/e1de202b-973d-42a6-967a-be565dd1c0a1" alt="Screenshot 4" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/0deb305a-8360-4b38-b399-0057bb12c31e" alt="Screenshot 5" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/4ff40f44-903f-431c-a26a-37713cc5c1012" alt="Screenshot 6" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/8a2c32c6-b903-42ba-b82f-697bc2809199" alt="Screenshot 8" width="150"></td>
   </tr>
 
+
 </table>
-
-
 
 
 
