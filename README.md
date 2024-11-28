@@ -1,5 +1,5 @@
-# MetaSchool Crypto Wallet
-The MetaSchool Crypto Wallet is a user-friendly Chrome extension that allows users to securely send crypto between wallets, switch between blockchain networks, manage digital assets, import accounts using private keys, add ERC-20 tokens, ensure robust authentication, and track a comprehensive account history.
+# Metaschool Crypto Wallet
+The Metaschool Crypto Wallet is an intuitive Chrome extension that enables users to securely send cryptocurrency between wallets, switch between blockchain networks, manage digital assets, import accounts using private keys, add ERC-20 tokens, ensure strong authentication, and track detailed transaction history.
 
 ## Table of Contents
 
