@@ -3,9 +3,9 @@ The MetaSchool Crypto Wallet is a user-friendly Chrome extension that allows use
 
 ## Table of Contents
 
-- [Tech-Stack](tech-stack)
+- [Tech-Stack](#tech-stack)
 - [Features](#features)
-- [Getting Started](getting-started)
+- [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [How to Run the Crypto Wallet](#how-to-run-the-crypto-wallet)
 - [Screenshots](#screenshots)
